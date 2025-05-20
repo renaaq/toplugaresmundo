@@ -31,13 +31,15 @@ nav {
   padding: 0;
 }
 
-.lugares li {
-  width: 200px;
-}
-
-.lugares img {
-  width: 200px;
+img {
+  width: 300px;
   height: 150px;
   object-fit: cover;
-  border-radius: 8px; /* Opcional, bordes redondeados */
+  border-radius: 8px;
+}
+
+
+a {
+    color: blue;
+    font-size: larger;
 }
